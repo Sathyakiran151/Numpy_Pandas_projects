@@ -1,4 +1,4 @@
-📊 NumPy & Pandas Projects Collection
+## 📊 NumPy & Pandas Projects Collection
 
 Welcome to my collection of Python mini-projects built using NumPy and Pandas.
 This repository showcases my hands-on practice and understanding of core Python, data handling, and problem-solving.
