@@ -41,7 +41,7 @@ Here are some of the key projects included:
 Python
 NumPy
 Pandas
-# 🎯 Purpose of This Repo
+## 🎯 Purpose of This Repo
 Practice Python fundamentals
 Strengthen problem-solving skills
 Build a strong base for Data Science & AI
