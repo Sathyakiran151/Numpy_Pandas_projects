@@ -3,7 +3,7 @@
 Welcome to my collection of Python mini-projects built using NumPy and Pandas.
 This repository showcases my hands-on practice and understanding of core Python, data handling, and problem-solving.
 
-🚀 About This Repository
+## 🚀 About This Repository
 
 This repo contains multiple beginner-to-intermediate level Python programs focused on:
 
