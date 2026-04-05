@@ -43,7 +43,7 @@ NumPy
 Pandas
 ## 🎯 Purpose of This Repo
 - Practice Python fundamentals
-Strengthen problem-solving skills
+- Strengthen problem-solving skills
 Build a strong base for Data Science & AI
 Prepare for technical interviews
 Showcase projects for recruiters
